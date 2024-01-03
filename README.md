@@ -51,8 +51,10 @@ python
     # Tambahkan kunci dan alamat lainnya jika diperlukan
     ]
 
-jika terdapat error tambahkan 0x 
+### jika terdapat error tambahkan 0x 
+
 contoh:2914awdwa2v1v1v2
+
 menjadi:0x2914awdwa2v1v1v2
 
 Langkah 3: Konfigurasi Node Blockchain
