@@ -12,6 +12,9 @@ Pastikan bahwa Anda telah memenuhi persyaratan lingkungan pengembangan yang dibu
 
 2. Instal Dependencies: Instal semua dependencies yang dibutuhkan dengan menjalankan perintah berikut di terminal:
 
+
+       pip install pysui
+   
 Beberapa hal yang dapat Anda coba:
 
 Coba lagi: Terkadang, timeout terjadi karena gangguan jaringan atau kelebihan beban pada server. Coba lagi setelah beberapa saat.
@@ -19,7 +22,8 @@ Coba lagi: Terkadang, timeout terjadi karena gangguan jaringan atau kelebihan be
 Ganti Server Miror PyPI: Bisa jadi server PyPI yang Anda gunakan saat ini mengalami masalah. Anda dapat mengganti server miror PyPI dengan yang lain. Anda dapat mengatur server miror menggunakan opsi -i atau --index-url. Misalnya:
 
 
-     pip install -i https://pypi.org/simple/pysui
+
+     pip install -i https://pypi.org/simple/ pysui
 
 Perbarui pip: Pastikan Anda menggunakan versi pip terbaru. Perbarui pip dengan perintah:
 
