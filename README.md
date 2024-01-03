@@ -71,6 +71,10 @@ Jalankan skrip suibot.py dan lihat apakah semuanya berjalan dengan lancar:
 
 
     python suibot.py
+
+atau
+
+    python3 suibot.py
     
 Langkah 5: Observasi dan Pantau
 Biarkan skrip berjalan dan observasi outputnya. Pastikan untuk memonitor log atau pesan kesalahan jika ada.
